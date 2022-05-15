@@ -12,4 +12,8 @@ A List:
 
 ---
 
+<<<<<<< HEAD
 Newer Section
+=======
+# New Section
+>>>>>>> 56cc422771fbd32d65bb9e949991f360789ecd37
