@@ -11,9 +11,6 @@ A List:
 ## This is a change from remote repo on new-local-branch-1 branch.
 
 ---
-
-<<<<<<< HEAD
-Newer Section
+# Newer Section
 =======
 # New Section
->>>>>>> 56cc422771fbd32d65bb9e949991f360789ecd37
