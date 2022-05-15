@@ -9,3 +9,7 @@ A List:
 
 ## Initial change in the file.
 ## This is a change from remote repo on new-local-branch-1 branch.
+
+---
+
+Newer Section
